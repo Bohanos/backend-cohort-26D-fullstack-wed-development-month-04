@@ -2,7 +2,7 @@
 # ideas: class = blueprint | object = one thing made from it
 # self = That object | __init__ runs at creation
 
-
+# Self represents the specific object that is created or used at the exact moment
 # define the blueprint (class)
 class Book:
     def __init__(self, title, pages): # runs automatically when a Book is created
